@@ -64,7 +64,7 @@ HTML/CSS/JS interface for inputting tasks and viewing sorted results.
 ### 1. Clone Repo
 
     git clone https://github.com/vaishu0804/task-analyzer.git
-    cd task-analyzer/backend
+    cd task-analyzer-main/backend
 
 ### 2. Create Virtual Environment
 
